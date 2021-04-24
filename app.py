@@ -10,7 +10,7 @@ from keras.models import load_model
 
 
 
-model =load_model("model/xceptionfinal_v4_1.h5")
+model =load_model("xceptionfinal_v4_1.h5")
 
  
  
